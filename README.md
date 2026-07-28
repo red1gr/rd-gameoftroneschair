@@ -1,6 +1,6 @@
 # RD-GAMEOFTRONESCHAIR
 
-[![GitHub license](https://img.shields.io/github/license/your-username/your-repo?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
+[![GitHub license](https://img.shields.io/github/license/red1gr/rd-gameoftroneschair?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
 
 ## OVERVIEW
 
