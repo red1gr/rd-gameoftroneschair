@@ -1,4 +1,4 @@
-# RD-GAMEOFTRONESCHAIR
+# RD-GAMEOFTRONESCHAIR FIVEM SCRIPT
 
 [![GitHub license](https://img.shields.io/github/license/red1gr/rd-gameoftroneschair?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
 
